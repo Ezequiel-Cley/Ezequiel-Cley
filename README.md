@@ -24,7 +24,7 @@
 
 ## Sobre mim 🤔
 
-👋 Olá, sou Ezequiel, um estudante de Ciencias da Computação que gosta de dedicar seu tempo livre para aprimorar conhecimentos relacionados a Tecnologia, Idiomas e Ciencias.
+👋 Olá, sou Ezequiel, um estudante de Ciencias da Computação que gosta de dedicar seu tempo livre para aprimorar conhecimentos relacionados a Tecnologia, Idiomas e Dados.
 
 👀 Tenho interesse em qualquer conteúdo relacionado a  codificação, programação, matemática e estatistica.
 
